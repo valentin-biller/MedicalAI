@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "uId": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "findings": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "impression": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "findings_normalized": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "impression_normalized": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "findings_sentences": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "impression_sentences": {
+      "dtype": "null",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
