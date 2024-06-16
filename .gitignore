@@ -1,0 +1,8 @@
+DGM/brain_data.zip
+DGM/brain/
+DGM/.ipynb_checkpoints/
+DGM/__pycache__/
+DGM/lightning_logs/
+DGM/model/__pycache__/
+DGM/model/.ipynb_checkpoints
+DGM/model/schedulers/__pycache__/
